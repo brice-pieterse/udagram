@@ -1,1 +1,1 @@
-aws s3 cp --recursive --acl public-read ./www s3://udagram-frontend-001/
+aws s3 cp --recursive --acl public-read ./www s3://udagram-frontend-001/ --endpoint-url http://udagram-frontend-001.s3-website-us-east-1.amazonaws.com

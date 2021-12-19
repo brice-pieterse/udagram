@@ -26,10 +26,6 @@ jobs:
           name: Front-End Build
           command: |
             npm run frontend:build
-  deploy:
-    docker:
-      - image: "cimg/base:stable"
-    steps:
       - run: 
           name: Front-End Deploy
           command: |

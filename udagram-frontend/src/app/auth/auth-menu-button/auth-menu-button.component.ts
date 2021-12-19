@@ -16,6 +16,7 @@ export class AuthMenuButtonComponent implements OnInit {
   constructor(
     private auth: AuthService,
     public modalController: ModalController
+    
     ) {}
 
   async presentmodal(ev: any) {
@@ -44,5 +45,9 @@ export class AuthMenuButtonComponent implements OnInit {
   }
 
   ngOnInit() {}
+
+  getAuth(): AuthService {
+  return this.auth
+}
 
 }

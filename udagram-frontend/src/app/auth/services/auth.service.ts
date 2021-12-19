@@ -11,7 +11,9 @@ const USER_LOCALSTORE_KEY = 'user';
   providedIn: 'root'
 })
 export class AuthService {
+  
   currentUser$: BehaviorSubject<User> = new BehaviorSubject<User>(null);
+
   constructor( private api: ApiService ) {
     this.initToken();
   }

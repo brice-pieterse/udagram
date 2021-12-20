@@ -1,5 +1,7 @@
 # Udagram
 
+http://udagram-frontend-001.s3-website-us-east-1.amazonaws.com
+
 This application is provided as a starter project for the purposes of learning to configure aws services, setting us a continuous integration/continuous deployment pipeline, and deploying an application. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
 ## Getting Started

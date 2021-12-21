@@ -39,7 +39,7 @@ jobs:
 workflows:
   udagram:
     jobs:
-      - build-and-deploy
+      - build-and-deploy:
           filters:
             branches:
               only: [main]

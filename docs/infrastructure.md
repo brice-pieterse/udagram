@@ -11,4 +11,4 @@
 
 ## Schema
 
-![Pipeline Schema](./docs/aws-architecture)
+![Pipeline Schema](aws-architecture.png)

@@ -13,4 +13,4 @@ The pipeline is setup in CircleCI using this repository.
 
 ## Schema
 
-![Pipeline Schema](./docs/pipeline-schema)
+![Pipeline Schema](pipeline-schema.png)

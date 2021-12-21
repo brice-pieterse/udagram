@@ -6,12 +6,12 @@ This application is provided as a starter project for the purposes of learning t
 
 ## Config Screenshots
 
-![eb](./screenshots/aws/eb-env)
-![s3](./screenshots/aws/s3-bucket)
-![rds](./screenshots/aws/rds-db)
-![circleci](./screenshots/circleci/cc1)
-![circleci](./screenshots/circleci/cc2)
-![circleci](./screenshots/circleci/cc3)
+![eb](./screenshots/aws/eb-env.png)
+![s3](./screenshots/aws/s3-bucket.png)
+![rds](./screenshots/aws/rds-db.png)
+![circleci](./screenshots/circleci/cc1.png)
+![circleci](./screenshots/circleci/cc2.png)
+![circleci](./screenshots/circleci/cc3.png)
 
 
 ## Getting Started

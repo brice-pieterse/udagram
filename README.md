@@ -4,6 +4,16 @@ http://udagram-frontend-001.s3-website-us-east-1.amazonaws.com
 
 This application is provided as a starter project for the purposes of learning to configure aws services, setting us a continuous integration/continuous deployment pipeline, and deploying an application. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
+## Config Screenshots
+
+![eb](./screenshots/aws/eb-env)
+![s3](./screenshots/aws/s3-bucket)
+![rds](./screenshots/aws/rds-db)
+![circleci](./screenshots/circleci/cc1)
+![circleci](./screenshots/circleci/cc2)
+![circleci](./screenshots/circleci/cc3)
+
+
 ## Getting Started
 
 1. Clone this repo locally into the location of your choice.

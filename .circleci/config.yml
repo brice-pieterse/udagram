@@ -40,3 +40,6 @@ workflows:
   udagram:
     jobs:
       - build-and-deploy
+          filters:
+            branches:
+              only: [main]
